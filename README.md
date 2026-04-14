@@ -29,7 +29,6 @@ Compare performance across years
 Filter by category (Accessories, Chairs, Phones, etc.)
 Filter by region (East, West, North, South)
 
-<img width="1340" height="766" alt="Screenshot 2026-04-14 131322" src="https://github.com/user-attachments/assets/9de66ecb-fdf2-4a69-bac0-779fe9f33f7a" />
-
+<img width="1330" height="749" alt="Screenshot 2026-04-14 132956" src="https://github.com/user-attachments/assets/b816df68-93e5-428a-bcbf-5042d3206626" />
 
 <img width="1335" height="755" alt="Screenshot 2026-04-14 131359" src="https://github.com/user-attachments/assets/6b3fed7c-b941-451c-bcad-fa56531cdba1" />
